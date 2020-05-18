@@ -1,0 +1,27 @@
+body{
+    font: 20px arial;
+    font;
+}
+.navbar {
+    background-color: darkseagreen;
+}
+
+.quem-somos{
+    background-color: indianred;
+}
+
+.parceiro{
+    background-color: yellowgreen;
+}
+
+.margin {
+    /* margin-top: cria uma margem externa ao componente. Em componentes com fundos coloridos, cria uma linha branca
+        padding: cria uma margem Interna. Extende o componente */
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.bg-footer{
+    background-color: midnightblue;
+    color: white;
+}
